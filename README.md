@@ -16,7 +16,7 @@ This Python toolkit empowers you to extract textual content from webpages ðŸ•¸ï¸
 
 # Installation #
 1. Clone the repository
-   - `git clone https://github.com/your-username/web-scraping-text-analysis.git`
+   - `git clone https://github.com/Gwala-1413/web-scraping-text-analysis.git`
 2. Install required dependencies:
    - `pip install requests beautifulsoup4 nltk`
 
