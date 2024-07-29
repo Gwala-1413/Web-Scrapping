@@ -21,7 +21,7 @@ This Python toolkit empowers you to extract textual content from webpages 🕸�
    - `pip install requests beautifulsoup4 nltk`
 
 # Usage #
-1. Navigate to the repository directory in your terminal.💻:cd:
+1. Navigate to the repository directory in your terminal.💻 :cd:
 2. Run the script: ▶️
    - `python Exe.py`
 3. When prompted, enter the target URL and the desired filename for saving the extracted text.🔗📝
